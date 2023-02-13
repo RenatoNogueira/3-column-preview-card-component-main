@@ -35,8 +35,8 @@ html {
 .container {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    margin-left: 30rem;
-    margin-right: 30rem;
+    margin-left: 26rem;
+    margin-right: 26rem;
     margin-top: 10rem;
 }
 
